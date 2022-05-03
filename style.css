@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    line-height: 1.4;
+  }
+  
+.content {
+    margin: 40px;
+}
+  
+.content p {
+    margin-bottom: 20px;
+    padding: 10px;
+    background: rgba(256,256,256,0.5);
+    backdrop-filter: blur(8px);
+    border-radius: 8px;
+}

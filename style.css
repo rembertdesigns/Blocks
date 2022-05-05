@@ -45,3 +45,14 @@ html, body {
     height: 100%;
     border: solid 1px grey;
   }
+  .s1 {
+    width: 100px;
+    height: 100px;
+  /*   top: -110px; */
+    top: 110px;
+    left: 20%;
+    background: #f22613;
+    animation-name: moving_s1;
+  /*   animation-delay: 1s; */
+  }
+  

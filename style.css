@@ -67,3 +67,14 @@ html, body {
     animation-delay: 2s;
   /*   animation-direction: alternate-reverse; */
   }
+  .s3 {
+    width: 75px;
+    height: 75px;
+    top: 30%;
+  /*   right: -85px; */
+    right: 85px;
+    background: #b4b8bf;
+    animation-name: moving_s3;
+  /*   animation-delay: 10s; */
+    animation-delay: 3s;
+  }

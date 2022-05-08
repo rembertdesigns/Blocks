@@ -78,3 +78,14 @@ html, body {
   /*   animation-delay: 10s; */
     animation-delay: 3s;
   }
+  .s4 {
+    width: 75px;
+    height: 75px;
+    left: 30%;
+  /*   bottom: -85px; */
+    bottom: 85px;
+    background: #d5f2f2;
+    animation-name: moving_s4;
+  /*   animation-delay: 14s; */
+    animation-delay: 4s;
+  }
